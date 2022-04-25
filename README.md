@@ -1,1 +1,1 @@
-Linuxda C dili  dosya işlemlerini gerçekleştirip içerisine basit bir algoritmayla yazılan kodu çalıştırmak.
+Performing C language file operations in Linux and running the code written with a simple algorithm.
